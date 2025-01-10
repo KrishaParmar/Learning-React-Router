@@ -1,0 +1,20 @@
+.navbar {
+    display: flex;
+    justify-content: end;
+    text-align: right;
+    padding-right: 60px;
+    list-style-type: none;
+    gap: 20px;
+    
+}
+.navbar .active{
+    color: brown;
+}
+.nav-bar-link{
+    text-decoration:none ;
+
+}
+.nav-bar-link:hover{
+    color: gray;
+
+}
